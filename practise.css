@@ -1,0 +1,13 @@
+img{
+    width: 100px;
+    position: relative;
+    top: 50px;
+    left: 100px;
+}
+#button:hover{
+    background-color:aquamarine;
+}
+input[type="text"]{
+    background-color: pink;
+    color: black;
+}
